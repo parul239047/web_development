@@ -57,4 +57,42 @@
     margin-left: 20px;
 }
 
+/* hero section  */
+.hero-section{
+    background-color: azure;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.box{
+    height: 450px;
+    width: 23%;
+    
+    background-color: white;
+    margin-top: 20px;
+    border-radius: 5%;
+}
+
+.box1-image{
+    height: 298px;
+    background-image: url(./image2.webp);
+    background-size: cover;
+    border-radius: 5%;
+}
+    
+.loc{
+    color: black;
+    font-weight: 700;
+    font-size: 30px;
+}
+.loc1{
+    color: black;
+    font-weight: 100;
+}
+a{
+    text-decoration: none;
+}
+
+
+
 
